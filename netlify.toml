@@ -1,0 +1,5 @@
+[build]
+  publish = ".lowdefy/publish"
+  command = "npx lowdefy@latest build-netlify"
+[functions]
+  directory = ".lowdefy/functions"
