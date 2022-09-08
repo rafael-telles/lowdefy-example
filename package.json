@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/rafael-telles/lowdefy-example#readme",
   "dependencies": {
-    "@lowdefy/server-node": "^3.23.3"
+    "@lowdefy/server-node": "3.23.3"
   },
   "devDependencies": {
-    "lowdefy": "^3.23.3"
+    "lowdefy": "3.23.3"
   }
 }
