@@ -1,0 +1,27 @@
+{
+  "name": "lowdefy-example",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lowdefy dev",
+    "build": "lowdefy build",
+    "build-netlify": "lowdefy build-netlify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafael-telles/lowdefy-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafael-telles/lowdefy-example/issues"
+  },
+  "homepage": "https://github.com/rafael-telles/lowdefy-example#readme",
+  "dependencies": {
+    "@lowdefy/server-node": "^3.23.3"
+  },
+  "devDependencies": {
+    "lowdefy": "^3.23.3"
+  }
+}

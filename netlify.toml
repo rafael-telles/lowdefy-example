@@ -1,5 +1,5 @@
 [build]
   publish = ".lowdefy/publish"
-  command = "npx lowdefy@latest build-netlify"
+  command = "yarn build-netlify"
 [functions]
   directory = ".lowdefy/functions"

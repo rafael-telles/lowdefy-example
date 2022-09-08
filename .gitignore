@@ -1,2 +1,5 @@
 .lowdefy/**
 .env
+node_modules
+
+.idea
